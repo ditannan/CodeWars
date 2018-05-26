@@ -9,4 +9,4 @@ def expressionsMatter(a, b, c):
         return 3
 
 
-expressionsMatter(1, 2, 3)
+print(expressionsMatter(1, 2, 3))
